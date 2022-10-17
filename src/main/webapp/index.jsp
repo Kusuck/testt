@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>GIT TestProject</h1>
+	<p>내용추가</p>
 </body>
 </html>
